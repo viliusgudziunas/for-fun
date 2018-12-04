@@ -1,1 +1,1 @@
-Scripts I wrote when learning python and ruby
+Scripts I wrote when learning python, ruby and javascript
