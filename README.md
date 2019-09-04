@@ -1,1 +1,5 @@
-Scripts I wrote when learning python, ruby and javascript
+### These small scripts and projects were used to learn:
+- Python
+- Ruby
+- JavaScript
+- React
